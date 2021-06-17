@@ -1,0 +1,23 @@
+{
+  "name": "cross-modulation",
+  "version": "1.0.0",
+  "description": "Web browser game written purely in JavaScript + WebGL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frovu/cross-modulation.git"
+  },
+  "author": "Frovy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frovu/cross-modulation/issues"
+  },
+  "homepage": "https://github.com/Frovu/cross-modulation#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
